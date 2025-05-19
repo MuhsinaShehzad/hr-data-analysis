@@ -1,0 +1,39 @@
+Tasks
+
+Load both csv to power query, transform it and load to power BI, Mainly three sheet dashboard(Home, Details, Action)
+
+--------------------------------------------------
+
+1- Find the total employees in the organization
+
+2- find the total and percentage of male and female employees ( Used DAX )
+
+3 - High ratings above is Low ratings
+
+4- Create promotion column using years since last promoted:
+Above 10 years should be due for promotion
+the rest year will not be due
+
+
+5 - Create job satisfaction column:
+High
+medium
+low
+
+6 - Creat column for retirement and show this following:
+Due for retirment
+On service
+
+7 - Create distance from home 🏡 column with the following:
+Very far
+Close
+Very close
+
+8- Create retrenchment and due for retrenchmnet
+The employees with more than 18 years in service will be retrenched
+
+9 - Show the employees that need promotions
+    Show the employees that need retirment
+
+"The company is providing severance benefits to employees who are on both lists
+ because they were about to be promoted but unfortunately ended up on the retrenchment list."
