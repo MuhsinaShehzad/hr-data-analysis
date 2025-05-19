@@ -7,7 +7,7 @@ The dashboard is designed to help HR professionals gain insights into employee d
 
 ## 📁 File Included
 - `Dashboard`: The Power BI dashboard screenshot(Include three sheets)
-- `Dashboard Task`: The Task that i did in this project
+- `Dashboard Task`: Documentation of tasks completed during the project.
 - `Insight`: The Insight that i found from the data (Employees that are retrenched and promoted)
 - `Used Data`: The Messy and uncleaned data that i got from the Organization.
 - `HR Data Project.pbix`: The Power BI dashboard file.
